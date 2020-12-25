@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "category_name":"Cakes",
+        "category_img":"https://d3s16h6oq3j5fb.cloudfront.net/img/gifts-city/desktop/webp-images/cakes-new.webp"
+    },
+    {
+        "id":2,
+        "category_name":"Flowers",
+        "category_img":"https://d3s16h6oq3j5fb.cloudfront.net/img/gifts-city/desktop/webp-images/flowers-new.webp"
+    },
+    {
+        "id":3,
+        "category_name":"Chocolates",
+        "category_img":"https://d3s16h6oq3j5fb.cloudfront.net/img/gifts-city/desktop/webp-images/chocolates-new.webp"
+    },
+    {
+        "id":4,
+        "category_name":"Personalised Gifts",
+        "category_img":"https://d3s16h6oq3j5fb.cloudfront.net/img/gifts-city/desktop/webp-images/personalised-gifts-new.webp"
+    },
+    {
+        "id":5,
+        "category_name":"Birthday Gifts",
+        "category_img":"https://d3s16h6oq3j5fb.cloudfront.net/img/gifts-city/desktop/webp-images/birthday-new.webp"
+    },
+    {
+        "id":6,
+        "category_name":"Anniversary Gifts",
+        "category_img":"https://d3s16h6oq3j5fb.cloudfront.net/img/gifts-city/desktop/webp-images/anniversary-gifts-new.webp"
+    } 
+]

@@ -1,1 +1,1 @@
-export {Dashboard} from "./Home"
+export {Home} from "./Home"

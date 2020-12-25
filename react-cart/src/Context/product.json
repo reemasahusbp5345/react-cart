@@ -1,0 +1,578 @@
+[
+    {
+        "id":1,
+        "category_id":1,
+         "product_name":"ToothSome Chocolate Cake",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/37740_toothsome-chocolate-cake.webp",
+         "price":649,
+         "newarrival":true
+    },
+    {
+        "id":2,
+        "category_id":1,
+         "product_name":"Choco Nova Cake",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/42976_choco-nova-cake.webp",
+         "price":449,
+         "premium":true
+    },
+    {
+        "id":3,
+        "category_id":1,
+         "product_name":"Butter Scotch Cake",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/30862_butter-scotch-cake.webp",
+         "price":499,
+         "newarrival":true
+    },
+    {
+        "id":4,
+        "category_id":1,
+         "product_name":"Yummuy Chocolate Photo Cake",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/29591_yummy-chocolate-photo-cake.jpeg",
+         "price":899,
+         "bestSeller":false
+    },
+    {
+        "id":5,
+        "category_id":1,
+         "product_name":"Red Velvet Heart Cake",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/41641_red-velvet-heart-cake.jpeg",
+         "price":999,
+         "bestSeller":false
+    },
+    {
+        "id":6,
+        "category_id":1,
+         "product_name":"Kitkat And Gems Cake",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/34313_kitkat-and-gems-cake.jpeg",
+         "price":649,
+         "bestSeller":false
+    },
+    {
+        "id":7,
+        "category_id":1,
+         "product_name":"Juicy Fruits Cake",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/44936_juicy-fruits-cake.webp",
+         "price":699,
+         "newarrival":true
+    },
+    {
+        "id":8,
+        "category_id":1,
+         "product_name":"Black Forest Barbie Doll Cake",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/33714_black-forest-barbie-doll-cake.jpeg",
+         "price":2349,
+         "bestSeller":true
+    },
+    {
+        "id":9,
+        "category_id":1,
+         "product_name":"Fresh Fruit Cake",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/38838_fresh-fruit-cake.webp",
+         "price":749,
+         "premium":true
+    },
+    {
+        "id":10,
+        "category_id":1,
+         "product_name":"Fruity Pineapple Cake",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/44884_fruity-pineapple-cake.webp",
+         "price":599,
+         "bestSeller":false
+    },
+    {
+        "id":11,
+        "category_id":1,
+         "product_name":"Delightful Blueberry Vanilla Cake",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/44955_delightful-blueberry-vanilla-cake.webp",
+         "price":749,
+         "bestSeller":false
+    },
+    {
+        "id":12,
+        "category_id":1,
+         "product_name":"Delectable Plum Cake",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/45468_delectable-plum-cake.webp",
+         "price":899,
+         "newarrival":true
+    },
+    {
+        "id":13,
+        "category_id":2,
+         "product_name":" Red Ross Bouquet",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/35901_8-red-roses-bouquet.webp",
+         "price":399,
+         "bestSeller":true
+    },
+    {
+        "id":14,
+        "category_id":2,
+         "product_name":"Modern Romance",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/29518_modern-romance.webp",
+         "price":499,
+         "premium":true
+    },
+    {
+        "id":15,
+        "category_id":2,
+         "product_name":"Pink Carnations In Pink Packing",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/37715_pink-carnations-in-pink-packing.webp",
+         "price":599,
+         "newarrival":true
+    },
+    {
+        "id":16,
+        "category_id":2,
+         "product_name":"Blooming Insight",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/37561_blooming-insight.webp",
+         "price":499,
+         "bestSeller":true
+    },
+    {
+        "id":17,
+        "category_id":2,
+         "product_name":"Beautiful Red Rose Hamper",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/34470_beautiful-red-rose-hamper.webp",
+         "price":899,
+         "bestSeller":false
+    },
+    {
+        "id":18,
+        "category_id":2,
+         "product_name":"Marvellous White Gerberas",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/34313_kitkat-and-gems-cake.jpeg",
+         "price":449,
+         "bestSeller":false
+    },
+    {
+        "id":19,
+        "category_id":2,
+         "product_name":"Smile Of Lilies",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/39467_smile-of-lilles.webp",
+         "price":1599,
+         "bestSeller":false
+    },
+    {
+        "id":20,
+        "category_id":2,
+         "product_name":"Let The Magic Begin",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/39421_let-the-magic-begin.webp",
+         "price":3049,
+         "premium":true
+    },
+    {
+        "id":21,
+        "category_id":2,
+         "product_name":"Just Amazing",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/34241_just-amazing.webp",
+         "price":1749,
+         "newarrival":true
+    },
+    {
+        "id":22,
+        "category_id":2,
+         "product_name":"Basket of Love",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/39466_basket-of-love.webp",
+         "price":1249,
+         "bestSeller":false
+    },
+    {
+        "id":23,
+        "category_id":2,
+         "product_name":"Vivid Blessings",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/40379_vivid-blessings.webp",
+         "price":449,
+         "bestSeller":false
+    },
+    {
+        "id":24,
+        "category_id":2,
+         "product_name":"From The Soul",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/37688_from-the-soul.webp",
+         "price":499,
+         "bestSeller":false
+    },
+    {
+        "id":25,
+        "category_id":3,
+         "product_name":"Champagne Shaped Chocolate",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/38606_champagne-shaped-chocolate.webp",
+         "price":699,
+         "bestSeller":true
+    },
+    {
+        "id":26,
+        "category_id":3,
+         "product_name":"LoveZip Choco",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/38644_lovezip-choco.webp",
+         "price":899,
+         "bestSeller":false
+    },
+    {
+        "id":27,
+        "category_id":3,
+         "product_name":"Put Magic In Your Bond",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/31472_put-magic-in-your-bond.webp",
+         "price":2299,
+         "premium":true
+    },
+    {
+        "id":28,
+        "category_id":3,
+         "product_name":"Two Layer Assorted Chocolate",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/30541_two-layer-assorted-chocolate-arrangement.webp",
+         "price":1099,
+         "bestSeller":false
+    },
+    {
+        "id":29,
+        "category_id":3,
+         "product_name":"Chocolaty Love Combo",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/38633_chocolaty-love-combo.webp",
+         "price":899,
+         "bestSeller":false
+    },
+    {
+        "id":30,
+        "category_id":3,
+         "product_name":"Shiny Wishes",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/35226_shiny-wishes.webp",
+         "price":1349,
+         "newarrival":true
+    },
+    {
+        "id":31,
+        "category_id":3,
+         "product_name":"Classic Chocolate Truffles Joy Box",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/32971_classic-chocolate-truffles-joy-box-of-12.webp",
+         "price":670,
+         "bestSeller":false
+    },
+    {
+        "id":32,
+        "category_id":3,
+         "product_name":"Classic 4 Chocolate Lollipop",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/28707_classic-4-chocolate-lollipop.webp",
+         "price":610,
+         "newarrival":true
+    },
+    {
+        "id":33,
+        "category_id":3,
+         "product_name":"Milk With Jaggery Chocolate Bar",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/39024_milk-with-jaggery-chocolate-bar.webp",
+         "price":950,
+         "bestSeller":true
+    },
+    {
+        "id":34,
+        "category_id":3,
+         "product_name":"Sticked With Sentiments",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/31465_sticked-with-sentiments.webp",
+         "price":2499,
+         "bestSeller":false
+    },
+    {
+        "id":35,
+        "category_id":3,
+         "product_name":"Belgian Style Pralines Box of 24",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/28710_belgian-style-pralines-box-of-24.webp",
+         "price":2070,
+         "bestSeller":false
+    },
+    {
+        "id":36,
+        "category_id":3,
+         "product_name":"Chocolate Hazelnut",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/28773_chocolate-hazelnut.webp",
+         "price":579,
+         "bestSeller":false
+    },
+    {
+        "id":37,
+        "category_id":4,
+         "product_name":"Personalised Letter Lampshade",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_300/44014_personalized-letter-lampshade.webp",
+         "price":1549,
+         "premium":true
+    },
+    {
+        "id":38,
+        "category_id":4,
+         "product_name":"Personalised LED clock",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_300/44059_personalized-led-clock.webp",
+         "price":749,
+         "newarrival":true
+    },
+    {
+        "id":39,
+        "category_id":4,
+         "product_name":"Crystal Cube",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_300/28904_crystal-cube.webp",
+         "price":2149,
+         "bestSeller":true
+    },
+    {
+        "id":40,
+        "category_id":4,
+         "product_name":"Happy Birthday Bluetooth Speaker",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_300/44017_happy-birthday-bluetooth-speaker.webp",
+         "price":979,
+         "bestSeller":true
+    },
+    {
+        "id":41,
+        "category_id":4,
+         "product_name":"Lovely Photo Frame",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_300/41958_lovely-photo-frame.webp",
+         "price":749,
+         "bestSeller":false
+    },
+    {
+        "id":42,
+        "category_id":4,
+         "product_name":"Love You Bluetooth Speaker",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_300/44019_love-you-bluetooth-speaker.webp",
+         "price":979,
+         "bestSeller":false
+    },
+    {
+        "id":43,
+        "category_id":4,
+         "product_name":"Happy Birthday Cherishable Memories",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_300/41960_happy-birthday-cherishable-memories.webp",
+         "price":699,
+         "bestSeller":false
+    },
+    {
+        "id":44,
+        "category_id":4,
+         "product_name":"Tie And Die Brown Mug",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_300/42355_tie-and-die-brown-mug.webp",
+         "price":2199,
+         "premium":true
+    },
+    {
+        "id":45,
+        "category_id":4,
+         "product_name":"Personalized Square Rock Slate",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_300/44071_personalized-square-rock-slate.webp",
+         "price":879,
+         "newarrival":true
+    },
+    {
+        "id":46,
+        "category_id":4,
+         "product_name":"Magic Mug",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_300/29001_magic-mug.webp",
+         "price":299,
+         "bestSeller":false
+    },
+    {
+        "id":47,
+        "category_id":4,
+         "product_name":"Eco Friendly Green Money Plant With Smiley",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_300/30721_eco-friendly-green-money-plant-with-smiley.webp",
+         "price":599,
+         "bestSeller":false
+    },
+    {
+        "id":48,
+        "category_id":4,
+         "product_name":"Customized Heart Shape Key Chain",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_300/28917_customized-heart-shape-key-chain.webp",
+         "price":749,
+         "bestSeller":false
+    },
+    {
+        "id":49,
+        "category_id":5,
+         "product_name":"ToothSome Chocolate Cake",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/37740_toothsome-chocolate-cake.webp",
+         "price":649,
+         "bestSeller":true
+    },
+    {
+        "id":50,
+        "category_id":5,
+         "product_name":"Beauty Forever",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/41142_beauty-forever.webp",
+         "price":2449,
+         "premium":true
+    },
+    {
+        "id":51,
+        "category_id":5,
+         "product_name":"Small Box Diya And Chocolate",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/42154_small-box-diya-and-chocolate.webp",
+         "price":549,
+         "premium":true
+    },
+    {
+        "id":52,
+        "category_id":5,
+         "product_name":"Minni Flatboard Goodies Hamper",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/42156_minni-flatboard-goodies-hamper.webp",
+         "price":649,
+         "bestSeller":false
+    },
+    {
+        "id":53,
+        "category_id":5,
+         "product_name":"Pure Bliss Hamper",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/41903_pure-bliss-hamper.webp",
+         "price":6999,
+         "premium":true
+    },
+    {
+        "id":54,
+        "category_id":5,
+         "product_name":"Dry Fruit Potli",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/29888_dry-fruit-potli.webp",
+         "price":1649,
+         "bestSeller":false
+    },
+    {
+        "id":55,
+        "category_id":5,
+         "product_name":"Juicy Fruits Cake",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/44936_juicy-fruits-cake.webp",
+         "price":699,
+         "bestSeller":false
+    },
+    {
+        "id":56,
+        "category_id":5,
+         "product_name":"Black Forest Barbie Doll Cake",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/33714_black-forest-barbie-doll-cake.jpeg",
+         "price":2349,
+         "newarrival":true
+    },
+    {
+        "id":57,
+        "category_id":5,
+         "product_name":"Bogart One Man Show EDT 100ml",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/31307_bogart-one-man-show-edt-100ml.webp",
+         "price":2000,
+         "bestSeller":true
+    },
+    {
+        "id":58,
+        "category_id":5,
+         "product_name":"Red Roses With Chocolates",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/36524_red-roses-with-chocolates.webp",
+         "price":899,
+         "bestSeller":false
+    },
+    {
+        "id":59,
+        "category_id":5,
+         "product_name":"Guess Dare EDT 100ml",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/31358_guess-dare-edt-100ml.webp",
+         "price":3749,
+         "bestSeller":false
+    },
+    {
+        "id":60,
+        "category_id":5,
+         "product_name":"Delectable Plum Cake",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/45468_delectable-plum-cake.webp",
+         "price":899,
+         "bestSeller":false
+    },
+    {
+        "id":61,
+        "category_id":6,
+         "product_name":" Red Ross Bouquet",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/35901_8-red-roses-bouquet.webp",
+         "price":399,
+         "premium":true
+    },
+    {
+        "id":62,
+        "category_id":6,
+         "product_name":"Personalised Clock",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/35079_personalised-clock.webp",
+         "price":1499,
+         "bestSeller":true
+    },
+    {
+        "id":63,
+        "category_id":6,
+         "product_name":"You & Me Photo Cushion",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/38665_you-me-photo-cushion.webp",
+         "price":399,
+         "bestSeller":true
+    },
+    {
+        "id":64,
+        "category_id":6,
+         "product_name":"Blooming Insight",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/37561_blooming-insight.webp",
+         "price":499,
+         "premium":true
+    },
+    {
+        "id":65,
+        "category_id":6,
+         "product_name":"King And Queen Face Mask",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/42367_king-and-queen-face-mask.webp",
+         "price":899,
+         "bestSeller":false
+    },
+    {
+        "id":66,
+        "category_id":6,
+         "product_name":"Techno Clutch",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/29965_techno-girl-clutch.webp",
+         "price":1449,
+         "bestSeller":false
+    },
+    {
+        "id":67,
+        "category_id":6,
+         "product_name":"Smile Of Lilies",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/39467_smile-of-lilles.webp",
+         "price":1599,
+         "bestSeller":false
+    },
+    {
+        "id":68,
+        "category_id":6,
+         "product_name":"Couple Goals Cake",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/42971_couple-goals-cake.webp",
+         "price":749,
+         "newarrival":true
+    },
+    {
+        "id":69,
+        "category_id":6,
+         "product_name":"Best Wine Glas",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/37280_best-wine-glass-set.webp",
+         "price":1249,
+         "bestSeller":true
+    },
+    {
+        "id":70,
+        "category_id":6,
+         "product_name":"Basket of Love",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/39466_basket-of-love.webp",
+         "price":1249,
+         "bestSeller":false
+    },
+    {
+        "id":71,
+        "category_id":6,
+         "product_name":"Vivid Blessings",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/40379_vivid-blessings.webp",
+         "price":449,
+         "bestSeller":false
+    },
+    {
+        "id":72,
+        "category_id":6,
+         "product_name":"Style With Leather",
+         "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/33564_style-with-leather.webp",
+         "price":1499,
+         "bestSeller":false
+    } 
+]
