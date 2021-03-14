@@ -6,7 +6,7 @@ import {Link} from "react-router-dom"
 const Container=styled.div`
 display:grid;
 grid-template-columns:1fr 1fr 1fr 1fr 1fr ;
-margin:10px;
+ 
 padding:10px;
 cursor:pointer;
 img{
@@ -18,9 +18,11 @@ img{
     margin:10px;
 }
 .card:hover{
-    color:orange;
-    border:2px solid orange;
-    box-shadow: 10px 10px #fce4ec;
+    border-radius: 0px;
+    background: linear-gradient(225deg, #f0f0f0, #fff3e0);
+    box-shadow:  -11px 11px 22px #5a5a5a,
+                 11px -11px 22px #ffffff;
+             color:orange;
 }
 `
 
@@ -33,7 +35,7 @@ class Products extends Component {
         const {product} =this.context;
         console.log(product)
         return (
-            <div style={{marginTop:"140px"}}>
+            <div style={{marginTop:"50pxpx"}}>
                <Container>
                    {product.map(item=><div className="card" key={item.id}>
                        

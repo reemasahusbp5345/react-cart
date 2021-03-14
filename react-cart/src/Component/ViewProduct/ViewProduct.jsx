@@ -6,7 +6,7 @@ import { Redirect ,Link} from 'react-router-dom';
 const Container=styled.div`
     display:flex;
     flex-direction:row;
-    margin-top:100px;
+    margin-top:50px;
     color:#e65100;
     margin-left:50px;
     .productDetails{

@@ -2,36 +2,26 @@ import React, { Component } from "react";
 import styled from "styled-components";
 import BestSeller from "../../Common/BestSeller";
 import Card from "../../Common/Card";
-
+import BootstrapCarousel from "../BootstrapCarousel/BootstrapCarousel";
 const Container = styled.div`
-  margin-top: 100px;
+  margin-top: 20px;
 `;
-const Banner = styled.div`
- 
- img{
-     width:1300px;
-     height:500px;
-     margin:20px;
- }
+
+const CategoryWrapper = styled.div`
+  background: #ff5722;
 `;
-const CategoryWrapper=styled.div`
- background:#ff5722;
-`
- 
 
 class Home extends Component {
   render() {
+    
     return (
       <Container>
-        <Banner>
-            <div>
-            <img src="/banner2.png" alt="banner" />
-            </div>
-        </Banner>
+        <BootstrapCarousel></BootstrapCarousel>
+
         <CategoryWrapper>
-        <Card/>
+          <Card />
         </CategoryWrapper>
-        <BestSeller/>
+        <BestSeller {...this.props}/>
       </Container>
     );
   }

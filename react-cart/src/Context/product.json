@@ -165,7 +165,7 @@
          "product_name":"Just Amazing",
          "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/34241_just-amazing.webp",
          "price":1749,
-         "newarrival":true
+         "newarrival":false
     },
     {
         "id":22,
@@ -237,7 +237,7 @@
          "product_name":"Shiny Wishes",
          "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/35226_shiny-wishes.webp",
          "price":1349,
-         "newarrival":true
+         "newarrival":false
     },
     {
         "id":31,
@@ -253,7 +253,7 @@
          "product_name":"Classic 4 Chocolate Lollipop",
          "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/28707_classic-4-chocolate-lollipop.webp",
          "price":610,
-         "newarrival":true
+         "newarrival":false
     },
     {
         "id":33,
@@ -293,7 +293,7 @@
          "product_name":"Personalised Letter Lampshade",
          "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_300/44014_personalized-letter-lampshade.webp",
          "price":1549,
-         "premium":true
+         "premium":false
     },
     {
         "id":38,
@@ -301,7 +301,7 @@
          "product_name":"Personalised LED clock",
          "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_300/44059_personalized-led-clock.webp",
          "price":749,
-         "newarrival":true
+         "newarrival":false
     },
     {
         "id":39,
@@ -309,7 +309,7 @@
          "product_name":"Crystal Cube",
          "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_300/28904_crystal-cube.webp",
          "price":2149,
-         "bestSeller":true
+         "bestSeller":false
     },
     {
         "id":40,
@@ -317,7 +317,7 @@
          "product_name":"Happy Birthday Bluetooth Speaker",
          "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_300/44017_happy-birthday-bluetooth-speaker.webp",
          "price":979,
-         "bestSeller":true
+         "bestSeller":false
     },
     {
         "id":41,
@@ -357,7 +357,7 @@
          "product_name":"Personalized Square Rock Slate",
          "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_300/44071_personalized-square-rock-slate.webp",
          "price":879,
-         "newarrival":true
+         "newarrival":false
     },
     {
         "id":46,
@@ -389,7 +389,7 @@
          "product_name":"ToothSome Chocolate Cake",
          "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/37740_toothsome-chocolate-cake.webp",
          "price":649,
-         "bestSeller":true
+         "bestSeller":false
     },
     {
         "id":50,
@@ -397,7 +397,7 @@
          "product_name":"Beauty Forever",
          "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/41142_beauty-forever.webp",
          "price":2449,
-         "premium":true
+         "premium":false
     },
     {
         "id":51,
@@ -405,7 +405,7 @@
          "product_name":"Small Box Diya And Chocolate",
          "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/42154_small-box-diya-and-chocolate.webp",
          "price":549,
-         "premium":true
+         "premium":false
     },
     {
         "id":52,
@@ -421,7 +421,7 @@
          "product_name":"Pure Bliss Hamper",
          "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/41903_pure-bliss-hamper.webp",
          "price":6999,
-         "premium":true
+         "premium":false
     },
     {
         "id":54,
@@ -445,7 +445,7 @@
          "product_name":"Black Forest Barbie Doll Cake",
          "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/33714_black-forest-barbie-doll-cake.jpeg",
          "price":2349,
-         "newarrival":true
+         "newarrival":false
     },
     {
         "id":57,
@@ -453,7 +453,7 @@
          "product_name":"Bogart One Man Show EDT 100ml",
          "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/31307_bogart-one-man-show-edt-100ml.webp",
          "price":2000,
-         "bestSeller":true
+         "bestSeller":false
     },
     {
         "id":58,
@@ -482,10 +482,10 @@
     {
         "id":61,
         "category_id":6,
-         "product_name":" Red Ross Bouquet",
+         "product_name":" Red Rose Bouquet",
          "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/35901_8-red-roses-bouquet.webp",
          "price":399,
-         "premium":true
+         "premium":false
     },
     {
         "id":62,
@@ -501,7 +501,7 @@
          "product_name":"You & Me Photo Cushion",
          "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/38665_you-me-photo-cushion.webp",
          "price":399,
-         "bestSeller":true
+         "bestSeller":false
     },
     {
         "id":64,
@@ -509,7 +509,7 @@
          "product_name":"Blooming Insight",
          "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/37561_blooming-insight.webp",
          "price":499,
-         "premium":true
+         "premium":false
     },
     {
         "id":65,
@@ -549,7 +549,7 @@
          "product_name":"Best Wine Glas",
          "product_url":"https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/37280_best-wine-glass-set.webp",
          "price":1249,
-         "bestSeller":true
+         "bestSeller":false
     },
     {
         "id":70,

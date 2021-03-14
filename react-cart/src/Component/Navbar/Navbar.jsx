@@ -12,22 +12,23 @@ const Navbarcenter = styled.div`
 `
 
 const NavbarWrapper = styled.div`
-    overflow:hidden;
-    position: fixed;
     background-color: #ffe0b2;
     width:100%;
-    padding:20px;
+    padding-top:20px;
     top:0;
-    height: 80px;
+    height: 70px;
     display:flex;
     line-height: normal;
+    
     &.wrapper > *{
         flex:1;
+        display:block;
     }
 `
 
 const NavbarLeft = styled.div`
     padding-left: 20px;
+    display:block;
     a {
         text-decoration: none;
         color: #e65100;

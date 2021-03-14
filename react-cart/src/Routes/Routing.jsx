@@ -13,6 +13,7 @@ import Card from '../Common/Card';
 import ViewProduct from '../Component/ViewProduct/ViewProduct'
 import Home from '../Component/Home/Home';
 import BestSeller from '../Common/BestSeller';
+import Success from '../Component/Cart/Success';
 
 class Routing extends Component {
     render() {
@@ -21,7 +22,7 @@ class Routing extends Component {
                 <Navbar/> 
                 <Link to="/bestseller"></Link>
                 <Switch>
-                    <Route path="/" exact component={Home}/>
+                    <Route path="/" exact render={(props)=><Home {...props}/>}/>
                     <Route path="/products" exact render={(props)=><Products {...props}/>}/>
                     <Route path="/bestseller" exact render={(props)=><BestSeller {...props}/>}/>
                     <Route path="/products/:product_id" exact render={(props)=><ViewProduct {...props}/>}/>
@@ -30,6 +31,7 @@ class Routing extends Component {
                     <Route path="/contact-us" component={Contact}/>
                     <Route path="/login" component={Login}/>
                     <Route path="/cart" component={Cart}/>
+                    <Route path="/order-placed" {...this.props} component={Success} />
                 </Switch>
                 <hr/>
                 <Route path="/" component={Footer}/>

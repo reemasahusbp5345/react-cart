@@ -42,7 +42,7 @@ const Right = styled.div`
 class Cart extends Component {
   render() {
     const { cart,getTotalBill } = this.context;
-    console.log(cart);
+    console.log(this.props);
     return (
       <div style={{ marginTop: 100 }}>
         <h1 style={{ textAlign: "left", marginLeft: 70 }}>
@@ -62,10 +62,10 @@ class Cart extends Component {
            <Right>
                <h2>₹ {getTotalBill()}</h2>
                <p>including all taxes</p>
-               <button className="checkout">CONTINUE TO CHECKOUT</button>
+               <Link to="/order-placed" className="checkout">CONTINUE TO CHECKOUT</Link>
 
                <p>Explore more gift option</p>
-               <button className="shopping"><Link to="/products"> CONTINUE SHOPPING</Link></button>
+                <Link to="/products"  className="shopping"> CONTINUE SHOPPING</Link> 
          </Right>}
         </Container>
       </div>

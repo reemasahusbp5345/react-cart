@@ -63,9 +63,10 @@ img {
 }`
 
 class BestSeller extends Component {
-    handleProduct=()=>{
+     
+    handleRedirect=(id)=>{
         const {history}=this.props;
-        console.log(history)
+        history.push(`products/${id}`)
     }
     render() {
         const {product}=this.context;
@@ -75,10 +76,10 @@ class BestSeller extends Component {
             <div>
                  <h1 style={{textAlign:"left",marginLeft:20,color:"green"}}>Best Seller </h1>
                  <Bestseller>
-                {product.filter(item=>item.bestSeller).map(item=>
-                    <div key={item.id}>
+                {product.filter((item)=>item.bestSeller).map(item=>
+                    <div key={item.id} onClick={()=>this.handleRedirect(item.id)}>
                         <p>Best Seller</p>
-                        <img src={item.product_url} alt={item.product_name} width="200px" onClick={()=>this.handleProduct(item.id)}/>
+                        <img src={item.product_url} alt={item.product_name} width="200px"  />
                         <h6>{item.product_name}</h6>
                     </div>)}
             </Bestseller>
@@ -87,7 +88,7 @@ class BestSeller extends Component {
                  <h1 style={{textAlign:"left",marginLeft:20,color:"#ffc107"}}>New Arrival </h1>
                  <Newarrival>
                 {product.filter(item=>item.newarrival).map(item=>
-                    <div key={item.id}>
+                    <div key={item.id} onClick={()=>this.handleRedirect(item.id)}>
                         <p>New Arrival</p>
                         <img src={item.product_url} alt={item.product_name} width="200px"/>
                         <h6>{item.product_name}</h6>
@@ -98,7 +99,7 @@ class BestSeller extends Component {
                  <h1 style={{textAlign:"left",marginLeft:20,color:"#b71c1c"}}>Premium </h1>
                  <Premium>
                 {product.filter(item=>item.premium).map(item=>
-                    <div key={item.id}>
+                    <div key={item.id} onClick={()=>this.handleRedirect(item.id)}>
                         <p>Premium</p>
                         <img src={item.product_url} alt={item.product_name} width="200px"/>
                         <h6>{item.product_name}</h6>
