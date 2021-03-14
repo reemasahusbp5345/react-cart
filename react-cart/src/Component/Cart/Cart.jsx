@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import styled from "styled-components";
 import { DataContext } from "../../Context/DataContextProvider";
 import CartItem from "./CartItem";
+import {Link} from "react-router-dom"
 
 const Container = styled.div`
   padding: 25px;
@@ -64,7 +65,7 @@ class Cart extends Component {
                <button className="checkout">CONTINUE TO CHECKOUT</button>
 
                <p>Explore more gift option</p>
-               <button className="shopping">CONTINUE SHOPPING</button>
+               <button className="shopping"><Link to="/products"> CONTINUE SHOPPING</Link></button>
          </Right>}
         </Container>
       </div>

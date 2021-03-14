@@ -31,8 +31,6 @@ class CartItem extends Component {
     handleDelete=(id)=>{
         const {deleteCart}=this.context;
         deleteCart(id)
-        
-
     }
     render() {
         const {product_name,qty,price,product_url,id}=this.props

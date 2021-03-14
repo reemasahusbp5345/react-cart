@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { DataContext } from '../../Context/DataContextProvider';
 import styled from "styled-components";
-import { Redirect } from 'react-router-dom';
+import { Redirect ,Link} from 'react-router-dom';
 
 const Container=styled.div`
     display:flex;
@@ -24,6 +24,12 @@ const Container=styled.div`
         padding:10px;
         width:200px;
         margin-top:50px;
+    }
+`
+const Button=styled.div`
+    &.btn > * > *{
+        text-decoration:none;
+        color:white;
     }
 `
 
@@ -54,9 +60,9 @@ class ViewProduct extends Component {
                    <h1>{product.product_name}</h1>
                    <h2>₹ {product.price}</h2>
                    <p>inclusive of all taxes</p>
-                   <div>
-                       <button onClick={()=>addToCart(product.id)}>ADD TO CART</button>
-                   </div>
+                   <Button className="btn">
+                       <button onClick={()=>addToCart(product.id)}><Link to="/cart"> ADD TO CART</Link></button>
+                   </Button>
                </div>
             </Container>
         );

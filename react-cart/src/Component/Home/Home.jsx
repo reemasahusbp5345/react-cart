@@ -25,7 +25,7 @@ class Home extends Component {
       <Container>
         <Banner>
             <div>
-            <img src="/banner1.png" alt="banner" />
+            <img src="/banner2.png" alt="banner" />
             </div>
         </Banner>
         <CategoryWrapper>
